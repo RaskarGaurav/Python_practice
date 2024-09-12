@@ -1,0 +1,15 @@
+#!/usr/bin/python3
+
+print(10/2)
+print(10//2.0)
+print(101/3)
+print(101//3)
+print(101%3)
+print(2**4)
+print(3**2)
+print(abs(-10))
+print(divmod(101,3))
+print(8<<1)
+print(8<<2)
+print(32<<2)
+print(16>>1)
